@@ -1,4 +1,4 @@
-## Hi there 👋
+# 일상을 개발하는 프론트엔드 개발자 이동규 입니다.
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ldk1009)](https://solved.ac/ldk1009/)
 
